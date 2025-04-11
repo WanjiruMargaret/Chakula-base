@@ -1,0 +1,29 @@
+.navigation{
+    display: flex;
+    justify-content: space-evenly;
+    border-bottom: 30px;
+    margin-top: 30px;
+    border: black solid ;
+    border-inline-start: 30px;
+    background-color: beige;
+    box-sizing: content-box;
+    font-style: italic;
+    font-size: larger;
+}
+.footer{
+    border: solid black;
+    text-align: center;
+    justify-content: space-evenly;
+    font-style: italic;
+}
+.fooditem{
+    width: 50 px;
+    padding: 100pxx;
+    width: 500px;
+    border-radius:5px;
+    height: 0.1pxx;
+    justify-content:space-between;
+    align-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+}
